@@ -1,1 +1,1 @@
-var game = new Phaser.Game(1024, 768, Phaser.AUTO, "game-container");
+var game = new Phaser.Game(1350, 668, Phaser.AUTO, "game-container");
