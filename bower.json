@@ -1,0 +1,18 @@
+{
+  "name": "Jogo-Aventura",
+  "homepage": "https://github.com/PauloRenato4/Jogo-Aventura",
+  "authors": [
+    "Paulo Renato Moreira Paschoal <paulo.dimaria34@hotmail.com>"
+  ],
+  "description": "Jogo de Aventura para o TCC",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
